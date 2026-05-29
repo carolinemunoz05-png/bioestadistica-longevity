@@ -67,7 +67,7 @@ bioestadistica-longevity/
 
 El dataset utilizado se encuentra disponible públicamente en Dryad:
 
-:contentReference[oaicite:0]{index=0}
+https://datadryad.org/dataset/doi:10.5061/dryad.kwh70rz72
 
 ### Pasos para descargar los datos
 
@@ -152,4 +152,4 @@ Bates, D., Mächler, M., Bolker, B., & Walker, S. (2015). *Fitting Linear Mixed-
 
 ## Autor
 
-Tu nombre
+Caroline Muñoz Padilla
